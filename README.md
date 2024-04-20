@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KlaymeaN
   
-- 👀 I’m interested in learning programming tools
+- Interested in learning 
   
-- 🌱 I’m currently learning basic stuff
   
 - ⚡ Fun fact: Is it about programming?
 
