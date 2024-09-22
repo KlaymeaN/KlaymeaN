@@ -3,7 +3,7 @@
 - Interested in learning 
   
   
-- ⚡ Fun fact: Is it about programming?
+- ⚡Is it about programming?
 
 
 <!---
