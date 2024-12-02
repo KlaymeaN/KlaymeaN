@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @KlaymeaN
+
   
-- Interested in learning 
+- Interested in learning
   
-  
-- ⚡Is it about programming?
+
 
 
 <!---
